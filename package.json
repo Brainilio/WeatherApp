@@ -2,7 +2,7 @@
   "name": "weerapp",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://Brainilio.github.io/WeatherApp/",
+  "homepage": "https://brainilio.github.io/WeatherApp/",
   "dependencies": {
     "gh-pages": "^1.2.0",
     "react": "^16.4.1",
